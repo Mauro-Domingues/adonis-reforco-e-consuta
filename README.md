@@ -26,7 +26,8 @@ Configurar ORM:
 
 ORM não relacional (Conteúdo relacionado):
 
-    npm i --save-dev prisma && npm i @prisma/client
+    npm i --save-dev prisma
+    npm i @prisma/client
 
 Pacote em si (Prisma):
 
@@ -39,7 +40,4 @@ Configurar ORM:
 Chaves de autenticação:
 
     npm i @adonisjs/auth
-
-Configurar:
-
     node ace configure @adonisjs/auth
